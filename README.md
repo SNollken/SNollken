@@ -20,8 +20,9 @@
 
 ## 🚲Contribuições e feitos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/dio-lab-open-source)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=aps2024-1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/aps2024-1)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=site-fabricio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/site-fabricio)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=aps2024-1&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/aps2024-1)
+
 
 <!--
 **SNollken/SNollken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
