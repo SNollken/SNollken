@@ -19,7 +19,6 @@
 ![Static Badge](https://img.shields.io/badge/-@snollken-black?style=for-the-badge&logo=discord&link=https://www.instagram.com/kitty.snova/)
 
 ## 🚲Contribuições e feitos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=DexDousky&repo=python_rip.pynthao&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/DexDousky/python_rip.pynthao)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=site-fabricio&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/site-fabricio)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=aula-arrays&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SNollken/aula-arrays)
 
