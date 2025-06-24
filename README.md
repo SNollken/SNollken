@@ -14,7 +14,7 @@
 ## 🛠️ ferramentas que sei usar
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,codepen,mysql,bootstrap,git,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,mysql,git,github" />
   </a>
 </p>
 
