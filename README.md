@@ -19,14 +19,31 @@
 </p>
 
 ## ✨ projetos em destaque
-<p align="center">
-  <a href="https://github.com/SNollken/snollken.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=snollken.github.io&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-  <a href="https://github.com/SNollken/ToDo-List">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SNollken&repo=ToDo-List&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" />
-  </a>
-</p>
+
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>📚 <a href="https://github.com/SNollken/estudoteca">Estudoteca</a></h3>
+      <p>Plataforma para estudar com simulados completos do ENEM e organizar certificados de cursos em um só lugar.</p>
+      <p>
+        <a href="https://estuda-hub.sofia-e-amigos.chatgpt.site">acessar o site</a>
+        ·
+        <a href="https://github.com/SNollken/estudoteca">ver repositório</a>
+      </p>
+      <sub>TypeScript · React · Cloudflare Workers · D1 · R2</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/SNollken/snollken.github.io">Portfólio pessoal</a></h3>
+      <p>Meu espaço na web para apresentar projetos, estudos e experiências.</p>
+    </td>
+    <td width="50%">
+      <h3>✅ <a href="https://github.com/SNollken/ToDo-List">ToDo List</a></h3>
+      <p>Aplicação para criar e organizar tarefas de forma simples.</p>
+    </td>
+  </tr>
+</table>
 
 ## 📊 estatísticas do github
 <p align="center">
