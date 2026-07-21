@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E94D5F,50:7F52FF,100:30A3DC&height=190&section=header&text=Sofia&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Bras%C3%ADlia%2C+DF&descAlignY=58&descSize=18" width="100%" alt="Cabeçalho com o nome Sofia" />
 
-[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=E94D5F&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Estudante+de+tecnologia+%F0%9F%92%BB;Criadora+da+Estudoteca+%F0%9F%93%9A;Transformando+ideias+em+projetos+%E2%9C%A8)](https://git.io/readme-typing-svg)
+[![Apresentação animada](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&color=E94D5F&center=true&vCenter=true&repeat=true&width=700&height=70&lines=Java+lover+%E2%98%95;I+love+playing+games+%F0%9F%8E%AE;Bringing+my+ideas+to+life+through+code+%E2%9C%A8;IT+graduate+%F0%9F%8E%93)](https://git.io/readme-typing-svg)
 
 </div>
 
