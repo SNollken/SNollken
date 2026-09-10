@@ -13,7 +13,7 @@
 - 📍 Brasília, Distrito Federal
 - 🎓 Formanda em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando desenvolvimento web, Java Spring Boot e Design UX/UI pela [Serasa Experian](https://www.linkedin.com/posts/sofianovaes_serasatransformese-gerandofalcoes-activity-7472677231459430401-rO-k)
-- 📚 Criadora da [PsicNota](https://github.com/SNollken/PsicNota), um site para psicólogos terem uma gestão inteligente
+- 📚 Criadora da [PsicNota](https://psicnota.onrender.com), um site para psicólogos terem uma gestão inteligente
 - 🎮 Apaixonada por jogos e sempre curiosa para aprender coisas novas
 - 💬 Aberta a conexões, projetos e oportunidades de aprendizado
 
