@@ -11,9 +11,9 @@
 ## 👩‍💻 Sobre mim
 
 - 📍 Brasília, Distrito Federal
-- 🎓 Estudante de tecnologia e desenvolvimento de software
-- 🌱 Aprendendo desenvolvimento web, Java, Python e bancos de dados
-- 📚 Criadora da [Estudoteca](https://github.com/SNollken/estudoteca), uma plataforma de simulados do ENEM e organização de certificados
+- 🎓 Formanda em Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando desenvolvimento web, Java Spring Boot e Design UX/UI pela [Serasa Experian](https://www.linkedin.com/posts/sofianovaes_serasatransformese-gerandofalcoes-activity-7472677231459430401-rO-k)
+- 📚 Criadora da [PsicNota](https://github.com/SNollken/PsicNota), um site para psicólogos terem uma gestão inteligente
 - 🎮 Apaixonada por jogos e sempre curiosa para aprender coisas novas
 - 💬 Aberta a conexões, projetos e oportunidades de aprendizado
 
