@@ -34,14 +34,14 @@
 <table>
   <tr>
     <td colspan="2">
-      <h3>📚 <a href="https://github.com/SNollken/estudoteca">Estudoteca</a></h3>
-      <p>Plataforma para estudar com simulados completos do ENEM e organizar certificados de cursos em um só lugar.</p>
+      <h3>🧠 <a href="https://github.com/SNollken/PsicNota">PsicNota</a></h3>
+      <p>Site para psicólogos terem uma gestão inteligente: consultas, notas de sessão, relatórios e área do paciente.</p>
       <p>
-        <a href="https://estuda-hub.sofia-e-amigos.chatgpt.site">Acessar o site</a>
+        <a href="https://psicnota.onrender.com">Acessar o site</a>
         ·
-        <a href="https://github.com/SNollken/estudoteca">Ver repositório</a>
+        <a href="https://github.com/SNollken/PsicNota">Ver repositório</a>
       </p>
-      <sub>TypeScript · React · Cloudflare Workers · D1 · R2</sub>
+      <sub>HTML · CSS · JavaScript · Render</sub>
     </td>
   </tr>
   <tr>
@@ -50,8 +50,8 @@
       <p>Meu espaço na web para apresentar projetos, estudos e experiências.</p>
     </td>
     <td width="50%">
-      <h3>✅ <a href="https://github.com/SNollken/ToDo-List">ToDo List</a></h3>
-      <p>Aplicação para criar e organizar tarefas de forma simples.</p>
+      <h3>🤖 <a href="https://github.com/SNollken/QwenSofia">QwenSofia</a></h3>
+      <p>Proxy OpenAI-compatible para modelos Qwen, construído com Playwright.</p>
     </td>
   </tr>
 </table>
